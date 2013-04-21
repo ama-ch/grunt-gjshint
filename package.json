@@ -1,0 +1,10 @@
+{
+  "name": "gjshint",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.4.3",
+    "grunt-regarde": "~0.1.1",
+    "grunt-notify": "~0.2.3"
+  }
+}
