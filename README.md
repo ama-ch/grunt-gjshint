@@ -1,7 +1,6 @@
 ## grunt-gjshint
 
-My sample linting grunt project.
-
+My sample linting project.
 
 ## Features
 
