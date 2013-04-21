@@ -27,5 +27,8 @@
 
   "browser": true,
   "devel": false,
-  "node": true
+  "node": true,
+
+  "white": true,
+  "gcl": true
 }
