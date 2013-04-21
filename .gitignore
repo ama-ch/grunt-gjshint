@@ -1,0 +1,26 @@
+### /Users/ama_ch/.gitignore-boilerplates/Global/IntelliJ.gitignore
+
+*.iml
+*.ipr
+*.iws
+.idea/
+
+
+### /Users/ama_ch/.gitignore-boilerplates/Node.gitignore
+
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log
+node_modules
+
