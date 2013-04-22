@@ -28,6 +28,11 @@ Linting with Closure Linter:
 $ grunt gjslint:all
 ```
 
+Fixing gjslint errors automatically:
+```bash
+$ grunt fixjsstyle:all
+```
+
 Linting with JSHint + Closure Linter (default task):  
 ```bash
 $ grunt
