@@ -52,7 +52,7 @@ module.exports = function(grunt) {
         title: ''
       }
     },
-    target: ['Gruntfile.js', 'js/**/*.js', '!js/ignoreme.js', '!**/ignoreme/**']
+    target: ['Gruntfile.js', 'js/**/*.js', 'tasks/**/*.js', '!js/ignoreme.js', '!**/ignoreme/**']
   });
 
   grunt.loadTasks('tasks');

@@ -1,3 +1,6 @@
+/**
+ * @param {*} grunt
+ */
 module.exports = function(grunt) {
   'use strict';
 

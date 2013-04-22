@@ -18,19 +18,6 @@
   };
 
   /**
-   * @param {number} code
-   * @param {Object} result
-   * @param {Array.<string>} files
-   */
-  var report = function(code, result, files) {
-    if (code !== 0) {
-      grunt.fail.warn(result.stdout);
-    } else {
-      grunt.log.ok(files.length + ' file' + (files.length === 1 ? '' : 's') + ' gjslint free.');
-    }
-  };
-
-  /**
    * @param {Object} task
    * @param {function(Object, Object, number)} callback
    */
